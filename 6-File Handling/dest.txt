@@ -1,0 +1,2 @@
+Hello World!
+This is Rishabh Agni practicing python in which i am learining how to overwrite a file content .Append operation taking place!
